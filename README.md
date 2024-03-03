@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yakshith</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/o-wNCEq_6f0AAAAd/pompo-the-cinephile-typing-fast.gif" alt="Typing Effect">
+  <img src="https://media1.tenor.com/m/KbXIBwtIzoYAAAAC/piano-bruce-almighty.gif" alt="Typing Effect">
 </p>
 
 <p align="center">
