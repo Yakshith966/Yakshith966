@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yakshith</h1>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/OKepOWOuxXAAAAAC/jim-carrey-fast-typing.gif" alt="Typing Effect">
+</p>
+
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions.
+</p>
 <h3 align="center">Mastering the Full Stack: Crafting Dynamic Web Solutions with Laravel and Vue.js</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakshith966&label=Profile%20views&color=0e75b6&style=flat" alt="yakshith966" /> </p>
