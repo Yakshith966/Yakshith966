@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  Welcome to my GitHub profile! I'm a passionate developer who loves building innovative solutions.
 
 </p>
 <h3 align="center">Mastering the Full Stack: Crafting Dynamic Web Solutions with Laravel and Vue.js</h3>
